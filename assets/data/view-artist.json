@@ -1,0 +1,191 @@
+[
+  {
+    "viewartistId": 1,
+    "viewartistName": "Carlos “Botong” V. Francisco",
+    "viewPeriod": "(b. 1912 Angono, Rizal - 1969)",
+    "viewartistDetails": "Carlos V. Francisco, better known as Botong, was responsible for revolutionising the fine arts landscape of the Philippines. He departed from the prevailing style of the Amorsolo academic and launched the modernist movement with his fellow founders of the Modern Triumvirate, Victorio Edades and Galo Ocampo.",
+    "viewartistImage": "assets/artist/BotongFrancisco.jpg"
+  },
+  {
+    "viewartistId": 2,
+    "viewartistName": "Diosdado M. Lorenzo",
+    "viewPeriod": "(b. 1906, San Isidro, Nueva Ecija - 1983)",
+    "viewartistDetails": "Diosdado M. Lorenzo (1906 - 1983) was active/lived in Italy, Philippines. Diosdado Lorenzo is known for painting; expressionist landscapes.",
+    "viewartistImage": "assets/artist/Diosdado-Lorenzo.webp"
+  },
+  {
+    "viewartistId": 3,
+    "viewartistName": "Felix Resurreccion Hidalgo",
+    "viewPeriod": "(b. 1855, Binondo, Manila – 1913)",
+    "viewartistDetails": "Félix Resurrección Hidalgo y Padilla was a Filipino artist. He is acknowledged as one of the greatest Filipino painters of the late 19th century, and is significant in Philippine history for having been an acquaintance and inspiration for members of the Philippine reform movement which included José Rizal, Marcelo del Pilar, Mariano Ponce, and Graciano López Jaena",
+    "viewartistImage": "assets/artist/Felix-Resurreccion-Hidalgo.webp"
+  },
+  {
+    "viewartistId": 4,
+    "viewartistName": "Fernando Amorsolo y Cueto",
+    "viewPeriod": "(1892, Paco, Manila - 1972),",
+    "viewartistDetails": "Fernando Amorsolo y Cueto  was a portraitist and painter of rural Philippine landscapes. Nicknamed the \"Grand Old Man of Philippine Art,\" he was the first-ever to be recognized as a National Artist of the Philippines. He was recognized as such for his \"pioneering use of impressionistic technique\" as well as his skill in the use of lighting and backlighting in his paintings, \"significant not only in the development of Philippine art but also in the formation of Filipino notions of self and identity.\"",
+    "viewartistImage": "assets/artist/Fernando-Amorsolo-y-Cueto.webp"
+  },
+  {
+    "viewartistId": 5,
+    "viewartistName": "Juan Luna y Novicio",
+    "viewPeriod": "(b. 1857, Badoc, Ilocos Norte – 1899)",
+    "viewartistDetails": "Juan Luna de San Pedro y Novicio Ancheta was a Filipino painter, sculptor and a political activist of the Philippine Revolution during the late 19th century. He became one of the first recognized Philippine artists. His winning of the gold medal in the 1884 Madrid Exposition of Fine Arts, along with the silver win of fellow Filipino painter Félix Resurrección Hidalgo.",
+    "viewartistImage": "assets/artist/Juan-Luna.webp"
+  },
+  {
+    "viewartistId": 6,
+    "viewartistName": "Leonardo Cruz",
+    "viewPeriod": "(b. 1932, Caloocan, Manila -2012)",
+    "viewartistDetails": "Leonardo Tayao Cruz was a Filipino Asian Modern & Contemporary artist who was born in 1932.\nLeonardo Tayao Cruz's work has been offered at auction multiple times, with realized prices ranging from 4,435 USD to 6,857 USD, depending on the size and medium of the artwork. Since 2019 the",
+    "viewartistImage": "assets/artist/Leonardo-Cruz.webp"
+  },
+  {
+    "viewartistId": 7,
+    "viewartistName": "Vicente Manansala",
+    "viewPeriod": "(b. 1910, Macabebe, Pampanga -1981)",
+    "viewartistDetails": "Vicente Silva Manansala was a Filipino cubist painter and illustrator. One of the first Abstractionists on the Philippine art scene Vicente Manansala is also credited with bridging the gap between the city and the suburbs, between the rural and cosmopolitan ways of life. His paintings depict a nation in transition, an allusion to the new culture brought by the Americans.",
+    "viewartistImage": "assets/artist/Vicente-Manansala.jpg"
+  },
+  {
+    "viewartistId": 8,
+    "viewartistName": "Andres Cristobal Cruz",
+    "viewPeriod": "(b. 1929, Dagupan City, Pangasinan - 2007, Quezon City)",
+    "viewartistDetails": "Andres Cristobal Cruz was a visual artist, Andres Cristobal Cruz was born in 1929 and died in 2007.  He is a renowned poet and storyteller, published a collection of his poems titled \"Estero Poems\" in 1961. In 1964, he released a collection of stories called \"White Wall.\" Some of his exquisite poems include \"Flower by the Estero,\" \"Evening Song,\" \"Dusk,\" \"Night on the Estero,\" and \"Dawn.\" ",
+    "viewartistImage": "assets/artist/Andres-Cristobal-Cruz.webp"
+  },
+  {
+    "viewartistId": 9,
+    "viewartistName": "Angelito Antonio",
+    "viewPeriod": "(b. 1939, Malolos, Bulacan)",
+    "viewartistDetails": "With an art career spanning over half a century,Angelito Antonio studied at the University of Santo Tomas under notable painters like Manansala and Galo Ocampo. He garnered numerous local and international awards, including the Grand Prize and Third Prize in the AAP's Annual art competition in 1964and 1963, respectively. A member of the Art Association of the Philippines and the Saturday Group of Artists, he had his first exhibit at the Luz gallery in 1977, showcasing a variety of works that demonstrated his mastery in both drawing and painting. ",
+    "viewartistImage": "assets/artist/Angelito-Antonio.webp"
+  },
+  {
+    "viewartistId": 10,
+    "viewartistName": "Antonio Austria",
+    "viewPeriod": "(b. 1936, Shanghai, China - 2023)",
+    "viewartistDetails": "Antonio Austria, born in 1936, is a Filipino visual artist known for his affinity for depicting everyday Filipino life, featuring iconic subjects such as Jeepneys, sari-sari stores, and billiard parlors in his paintings. He earned a Bachelor of Fine Arts degree from the University of Santo Tomas in 1956, where he received guidance and honed his artistic skills under the mentorship of renowned Filipino artists. ",
+    "viewartistImage": "assets/artist/Antonio-Austria.webp"
+  },
+  {
+    "viewartistId": 11,
+    "viewartistName": "Dionisio Orellana",
+    "viewPeriod": "(b. 1921, Iligan City -1996)",
+    "viewartistDetails": "Dionisio Orellana, a graduate of the University of the Philippines’ College of Fine Arts. Orellana was considered the expert on Maranao art. One of Dionisio’s early paintings about the Maria Cristina Falls was done in 1956.",
+    "viewartistImage": "assets/artist/Dionisio-Orellana.webp"
+  },
+  {
+    "viewartistId": 12,
+    "viewartistName": "Dominador Castañeda",
+    "viewPeriod": "(b. 1904, Santa Cruz, Manila-1967)",
+    "viewartistDetails": "Dominador Hilario Castañeda was born on April 8, 1904 in Santa Cruz, Manila. He wrote and published Art in the Philippines in 1964 and was known as a friend and contemporary of National Artist Fernando Amorsolo. ",
+    "viewartistImage": "assets/artist/Dominador-Castañeda.webp"
+  },
+  {
+    "viewartistId": 13,
+    "viewartistName": "Federico Aguilar Alcuaz",
+    "viewPeriod": "(b. 1932, Manila-2011, Manila)",
+    "viewartistDetails": "Federico Aguilar y Alcuaz was a Filipino artist celebrated for his diverse artistic output encompassing gestural paintings, watercolors, abstract sculptures, and textile art.",
+    "viewartistImage": "assets/artist/Federico-Aguilar-Alcuaz.webp"
+  },
+  {
+    "viewartistId": 14,
+    "viewartistName": "Jaime De Guzman",
+    "viewPeriod": "(1942, Liliw, Laguna - 2023)",
+    "viewartistDetails": "Born and raised in Liliw, Laguna, a town nestled at the base of the mystical Mt. Banahaw, De Guzman's artistic journey was deeply influenced by local folklore. As he entered UP during a time of changing political tides and impending revolution, De Guzman gravitated toward Expressionism, distorting the human figure to reflect the harsh realities of contemporary life.",
+    "viewartistImage": "assets/artist/Jaime-De-Guzman.webp"
+  },
+  {
+    "viewartistId": 15,
+    "viewartistName": "Jose V. Pereira",
+    "viewPeriod": "(b. 1901, Ilagan, Isabela-1954)",
+    "viewartistDetails": "Jose Pereira, a pre-war painter known for producing genre works in the early 20th century, pursued his passion for art at the UP School of Fine Arts from 1923 to 1925. He maintained a close friendship with the art patron Alfonso Ongpin and worked as a staff member at the Philippines Free Press, eventually becoming its chief artist. However, his career at the publication was cut short in 1938 due to tuberculosis.",
+    "viewartistImage": "assets/artist/Jose-Pereira.webp"
+  },
+  {
+    "viewartistId": 16,
+    "viewartistName": "Juan de Cuéllar",
+    "viewPeriod": "(b. 1739, Real Sitio de Aranjuez, Spain – 1801, Ilocos, Philippines)",
+    "viewartistDetails": "Juan José Ruperto de Cuéllar y Villanueba was a Spanish pharmacologist and botanist. From 1786 to 1797 he was the leader of a royal botanical expedition to the Philippines.",
+    "viewartistImage": "assets/artist/Juan-de-Cuéllar.webp"
+  },
+  {
+    "viewartistId": 17,
+    "viewartistName": "Manuel Baldemor",
+    "viewPeriod": "(b. 1947, Paete, Laguna)",
+    "viewartistDetails": "Painter, printmaker, and sculptor Manuel Baldemor, born in 1947 in Paete, Laguna, known to some as the “Carving Capital of the Philippines” came from a family of artists. This influenced his love for art. He studied fine arts at the University of Santo Tomas and his first known works in the 1970s are pen and ink drawings of his hometown.",
+    "viewartistImage": "assets/artist/Manuel-Baldemor.webp"
+  },
+  {
+    "viewartistId": 18,
+    "viewartistName": "Miguel Galvez",
+    "viewPeriod": "(b. 1912, Paombong, Bulacan-1989)",
+    "viewartistDetails": "Miguel Galvez pursued Art Studies under Teodoro Buenaventura in 1993 and later established his own studio on Mabini Street in 1950. A notable achievement in his career was being the first Filipino to secure a silver medal at the 1957 Southeast Asia Art Festival. Galvez received numerous accolades in various editions of the AAP annuals and other art competitions. Additionally, he served as an art instructor at the Manila Wesleyan Colleges during 1948-1949 and was honored as the country's distinguished landscape painter in 1950 by the San Miguel Corporation.\n",
+    "viewartistImage": "assets/artist/Miguel-Galvez.webp"
+  },
+  {
+    "viewartistId": 19,
+    "viewartistName": "Norma Belleza",
+    "viewPeriod": "(b. 1939, San Fernando, Pampanga)",
+    "viewartistDetails": "Born in 1939 in San Fernando, Pampanga, Philippines, Norma Belleza is renowned for her vibrant folk genre art characterized by lively colors. Hailing from a family of movie marquee and billboard painters, she is married to Angelito Antonio, and their children, Fatima, Emil, and Marcel, are active painters as well. Her artistic journey began with her first solo exhibition at the Phil Art Gallery in 1963, where she was the artist in residence alongside her painter-husband Llito. Following a decade-long hiatus from painting, she returned with a solo show at Metro Gallery in 1976. ",
+    "viewartistImage": "assets/artist/Norma-Belleza.webp"
+  },
+  {
+    "viewartistId": 20,
+    "viewartistName": "Pacita Abad",
+    "viewPeriod": "(b. 1946, Basco Batanes - 2004, Singapore)",
+    "viewartistDetails": "Pacita Barsana Abad was an Ivatan and Filipino-American artist. Her more than 30-year painting career began when she traveled to the United States to undertake graduate studies in Spain. She exhibited her work in over 200 museums, galleries and other venues, including 75 solo shows, around the world. Abad's work is now in public, corporate and private art collections in over 70 countries.",
+    "viewartistImage": "assets/artist/Pacita-Abad.webp"
+  },
+  {
+    "viewartistId": 21,
+    "viewartistName": "Ramon Peralta Y Resurreccion",
+    "viewPeriod": "(b. 1877, La Union - 1940, Manila)",
+    "viewartistDetails": "Ramon Peralta, a Filipino artist known for his contributions to Impressionism and Modern art,\nwas born in 1877. His artworks have been featured in various auctions, fetching prices ranging\nfrom 2,526 USD to 16,772 USD, depending on factors like size and medium. Peralta passed\naway in 1940. Notably, the highest auction price for his work since 2016 stands at 16,772 USD,\nachieved for his piece titled \"Country Life,\" which was sold at León Gallery in Makati in 2023.\n",
+    "viewartistImage": "assets/artist/Ramon-Resurreccion.webp"
+  },
+  {
+    "viewartistId": 22,
+    "viewartistName": "Ricarte Puruganan",
+    "viewPeriod": "(b. 1912, Dingras, Ilocos Norte-1998)",
+    "viewartistDetails": "Ricarte Madamba Puruganan, a Filipino painter, was born in Dingras, Ilocos Norte. He was recognized as one of the \"Thirteen Moderns,\" a group of artists who broke away from the conservative art traditions, with leaders like Fernando Amorsolo. Puruganan's paintings were showcased alongside renowned masters like Juan Luna, Felix Resurreccion Hidalgo, Fabian de la Rosa, Amorsolo, Victorio C. Edades, Vicente Manansala, Hernando R. Ocampo, and Cesar Legaspi. ",
+    "viewartistImage": "assets/artist/Ricarte-Puruganan.webp"
+  },
+  {
+    "viewartistId": 23,
+    "viewartistName": "Serafin Serna",
+    "viewPeriod": "(b. 1919, Tondo, Manila-1979)",
+    "viewartistDetails": "Serafin Serna is an artist from the Philippines. born in Raxabago in Tondo, Manila on November 14, 1919. During his youth, he studied at the University of the Philippines School of Fine Arts during his senior year when World War II erupted. He created notable paintings like \"Igorot Woman\" and \"Marketing in Baguio\" in 1941, influenced by his professor, Fernando Amorsolo.",
+    "viewartistImage": "assets/artist/Serafin-Serna.webp"
+  },
+  {
+    "viewartistId": 24,
+    "viewartistName": "Tomas Bernando",
+    "viewPeriod": "(b. 1918, Bulacan-1994)",
+    "viewartistDetails": "With a painting career spanning over half a century, Professor Tomas T. Bernardo, under the guidance of his uncle Teodoro Buenaventura and through personal development, crafted his distinctive artistic style. Much of his early career was dedicated to the National Museum, where he specialized in botanical drawings mentored by Dr. Eduardo Quisumbing, the Museum's Director. Notably, Bernardo gained recognition for his exceptional orchid paintings, depicting these flowers in their natural surroundings. ",
+    "viewartistImage": "assets/artist/Tomas-Bernando.webp"
+  },
+  {
+    "viewartistId": 25,
+    "viewartistName": "Toribio Herrera Y Mendoza",
+    "viewPeriod": "(b. 1892, Tondo, Manila-1968)",
+    "viewartistDetails": "Dr. Toribio Herrera was part of the group of Filipino genre masters of the 1920s that included Fernando Amorsolo and Dominador Castañeda.  Toribio Herrera was born in Tondo and graduated with a degree in Medicine from UST in 1912.  He took a second course to earn a Fine Arts degree from UP. In his lifetime, Dr. Herrera never exhibited his works in public, eschewing monetary rewards for his art.  He never attempted to sell a painting while he lived.  The first exhibition of his works was held in 1972, four years after his death.",
+    "viewartistImage": "assets/artist/Toribio-Mendoza.webp"
+  },
+  {
+    "viewartistId": 26,
+    "viewartistName": "Virginia Ty-Navarro",
+    "viewPeriod": "(b. 1922, Manila - 1996, Manila)",
+    "viewartistDetails": "Virginia Ty-Navarro, born in Manila on July 5, 1922, achieved academic excellence by graduating summa cum laude from the University of Santo Tomas (UST) in 1949. Her commitment to education led her to a teaching career, which spanned over a decade until 1960. As a trailblazer in the art world, she played a pivotal role in the establishment of the Society of Philippine Sculptors, serving as its sole female member. ",
+    "viewartistImage": "assets/artist/Virginia-Ty-Navarro.webp"
+  },
+  {
+    "viewartistId": 27,
+    "viewartistName": "Zosimo Dimaano Y Flores",
+    "viewPeriod": "(b. 1895, Pagsanjan, Laguna - 1942)",
+    "viewartistDetails": "Zosimo Dimaano Y Flores was a Filipino painter who graduated from the University of the Philippines School of Fine Arts in 1919. He worked with Fernando Amorsolo as a designer and in photo studios in Manila.",
+    "viewartistImage": "assets/artist/Zosimo-Dimaano-Y-Flores.webp"
+  }
+]

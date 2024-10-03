@@ -1,0 +1,30 @@
+0 A View of Manila
+1 Abelmoschus moschatus
+2 alpinia elegans
+3 alpinia elegans-2
+4 Altar de San Francisco
+5 Amaranthus tricolor
+6 Argemone Mexicana
+7 Averrhoa bilimbi
+8 Barrio Folks
+9 Barrio Scene
+10 Belamcanda chinesis
+11 Deposition
+12 Hibiscus mutabilis L. malvaceae
+13 Landscape (Factories)
+14 Landscape (Hinulugang Taktak, Antipolo)
+15 Landscape (UP Diliman)
+16 Lanzones Vendors
+17 personalities (a)
+18 personalities (c)
+19 personalities (g)
+20 personalities (l)
+21 personalities (p)
+22 personalities (s)
+23 Pottery Makers
+24 psophocarpus-tetragonolobus
+25 Rural Scene (Pugad Lawin)
+26 Rural Scene with Kakawete Trees
+27 Self-Portrait
+28 Self-Portrait - 2
+29 Woman and a Cat
